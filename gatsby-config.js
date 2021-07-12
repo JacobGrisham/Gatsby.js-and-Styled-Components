@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Star Wars 3D Models and Blueprints",
-    siteUrl: 'https://www.example.com',
+    siteUrl: 'https://starwars-spaceships.netlify.app/',
     description: 'View iconic Star Wars space ships like the Millennium Falcon and a Tie Fighter as an interactive 3D model and as a blueprint.',
     author: 'Jacob Grisham'
   },
@@ -18,7 +18,7 @@ module.exports = {
     {
       resolve: "gatsby-plugin-google-analytics",
       options: {
-        trackingId: "G-36KQSD0BWH",
+        trackingId: "UA-139163603-3",
       },
     },
     {
