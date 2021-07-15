@@ -37,9 +37,9 @@ const Title = styled.div `{
 const Subtitle = styled.h2` {
     position: absolute;
     margin: 0 auto;
-    left: 0;
-    right: 0;
     top: 25%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
     letter-spacing: 20px;
     text-transform: uppercase;
     text-align: center;
@@ -48,14 +48,11 @@ const Subtitle = styled.h2` {
     @media only screen and (max-width: 1000px) {
         font-size: 1rem;
         letter-spacing: 10px;
-        margin-top: 1rem;
     }
 
     @media only screen and (max-width: 500px){
         font-size: 0.5rem;
         letter-spacing: 3px;
-        margin-top: 0;
-        top: 20.5%;
     }
 }
 `;
