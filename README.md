@@ -1,5 +1,9 @@
-# [Star Wars 3D Models & Blueprints: Front End Web App using Gatsby.js and Styled Components](https://starwars-spaceships.netlify.app/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/38f18c28-cd52-40e3-97d5-7043dd2a2ec2/deploy-status)](https://app.netlify.com/sites/starwars-spaceships/deploys)
+<div align="center">
+  <img width="200" src="src/assets/icon.png" alt="Star Wars 3D Models and Blueprints logo">
+  
+  # [Star Wars 3D Models & Blueprints: Front End Web App using Gatsby.js and Styled Components](https://starwars-spaceships.netlify.app/)
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/38f18c28-cd52-40e3-97d5-7043dd2a2ec2/deploy-status)](https://app.netlify.com/sites/starwars-spaceships/deploys)
+</div>
 
 - Refactored website from [Flask](https://flask.palletsprojects.com/en/2.0.x/) to with [Gatsby.js](https://www.gatsbyjs.com/) and [Styled Components](https://styled-components.com/).
 - [Originally homework from CS50](https://cs50.harvard.edu/x/2020/tracks/web/homepage/), where we were tasked to build a simple homepage using HTML, CSS, and JavaScript. I took this as an opportunity to go beyond this by practicing design and using advanced CSS methods.
