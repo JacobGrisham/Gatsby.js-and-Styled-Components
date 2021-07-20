@@ -6,7 +6,7 @@
   [![Netlify Status](https://api.netlify.com/api/v1/badges/38f18c28-cd52-40e3-97d5-7043dd2a2ec2/deploy-status)](https://app.netlify.com/sites/starwars-spaceships/deploys)
   ![Security Headers](https://img.shields.io/security-headers?url=https%3A%2F%2Fstarwars-spaceships.netlify.app%2F)
   [![Codacy Badge](https://app.codacy.com/project/badge/Grade/351fc2b221cd446c8659065715d758ac)](https://www.codacy.com/gh/JacobGrisham/Gatsby.js-and-Styled-Components/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JacobGrisham/Gatsby.js-and-Styled-Components&amp;utm_campaign=Badge_Grade)
-  ![David](https://img.shields.io/david/jacobgrisham/Gatsby.js-and-Styled-Components)
+  ![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/jacobgrisham/Gatsby.js-and-Styled-Components)
 </div>
 
 - Refactored website from [Flask](https://flask.palletsprojects.com/en/2.0.x/) to with [Gatsby.js](https://www.gatsbyjs.com/) and [Styled Components](https://styled-components.com/).
