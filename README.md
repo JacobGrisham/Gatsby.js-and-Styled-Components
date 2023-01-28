@@ -21,7 +21,7 @@ npm install
 npm run dev
 ```
 
-## 📣 Acknowledgments
+## 📣 Attribution
 - Star Wars created by Lucasfilm Ltd.
 - Starship information from [Star Wars API](https://swapi.dev/)
 - Aurebesh Font from [Online Web Fonts](https://www.onlinewebfonts.com/download/ad4908c2b00349b5ccefeb6be87ce49c)
